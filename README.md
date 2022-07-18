@@ -5,7 +5,7 @@ My name is Bhavya Ambastha
 Frontend Developer
 ------------------
 
-I am a Final year Undergraduate at Dr. B R Ambedkar National Institute of Technology Jalandhar. Skilled in C++, Data Structures and Algorithms, React.js, SQL, Tableau, Leadership and Project Management. I love connecting with new people, exploring new things, taking on challenges, and gaining different knowledge, always open to new experiences and wants to live life to its fullest.
+I am a Final year Undergraduate at National Institute of Technology, Jalandhar. Skilled in C++, Data Structures and Algorithms, React.js, SQL, Tableau, Leadership and Project Management. I love connecting with new people, exploring new things, taking on challenges, and gaining different knowledge, always open to new experiences and wants to live life to its fullest.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Bhavya Ambastha](http://https://bhavyaambastha.netlify.app/)
